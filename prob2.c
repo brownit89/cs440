@@ -1,5 +1,8 @@
 #include<bits/stdc++.h>
 #include <string>
+//citations:
+//https://www.geeksforgeeks.org/implementing-hash-table-open-addressing-linear-probing-cpp/
+
 using namespace std;
 
 
